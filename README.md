@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @leoarod
 - 👀 I’m interested in ... Mnemonic
 - 🌱 I’m currently learning ... create Mnemonic and Code qr
-- 💞️ I’m looking to collaborate on ... Mnemonic 
+- 💞️ I’m looking to collaborate on ... Mnemonic
+- 🚀 ₿itcoin🟠
 - 📫 How to reach me ... @Leoarod twitter
 
 <!---
